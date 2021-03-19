@@ -10,5 +10,5 @@ Please install the following npm modules:
 3. **bcrypt**
 4. **nodemon**
 5. **mysql**
-6.**bodyparser**
+6. **bodyparser**
 7. **express**
